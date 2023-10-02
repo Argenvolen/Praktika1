@@ -1,0 +1,14 @@
+D:\projects\Praktichna1\bin\Debug\net6.0\Praktichna1.exe
+D:\projects\Praktichna1\bin\Debug\net6.0\Praktichna1.deps.json
+D:\projects\Praktichna1\bin\Debug\net6.0\Praktichna1.runtimeconfig.json
+D:\projects\Praktichna1\bin\Debug\net6.0\Praktichna1.dll
+D:\projects\Praktichna1\bin\Debug\net6.0\Praktichna1.pdb
+D:\projects\Praktichna1\obj\Debug\net6.0\Praktichna1.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Praktichna1\obj\Debug\net6.0\Praktichna1.AssemblyInfoInputs.cache
+D:\projects\Praktichna1\obj\Debug\net6.0\Praktichna1.AssemblyInfo.cs
+D:\projects\Praktichna1\obj\Debug\net6.0\Praktichna1.csproj.CoreCompileInputs.cache
+D:\projects\Praktichna1\obj\Debug\net6.0\Praktichna1.dll
+D:\projects\Praktichna1\obj\Debug\net6.0\refint\Praktichna1.dll
+D:\projects\Praktichna1\obj\Debug\net6.0\Praktichna1.pdb
+D:\projects\Praktichna1\obj\Debug\net6.0\Praktichna1.genruntimeconfig.cache
+D:\projects\Praktichna1\obj\Debug\net6.0\ref\Praktichna1.dll
